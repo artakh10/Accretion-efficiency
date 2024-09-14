@@ -13,7 +13,7 @@ Here is a description of the different programs and files used in this repositor
 
 * ```constants_Acc.py:``` Relevant cosmological and physical constants.
 
-* ```function_Acc.py:``` Functions used in the ```On the Accretion efficiency of High redshift Quasars.ipynb``` program based on bolometric luminosity, redshift, BH mass, optical luminosity, Eddington luminosity, and accretion efficiency.
+* ```function_Acc.py:``` Functions used in the ```Accretion efficiency evolution of supermassive blackholes in quasars.ipynb``` program based on bolometric luminosity, redshift, BH mass, optical luminosity, Eddington luminosity, and accretion efficiency.
 
 
 ## Requisites
