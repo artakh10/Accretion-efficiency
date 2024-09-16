@@ -1,5 +1,5 @@
 # Accretion-efficiency
-The required code for Accretion efficiency evolution of supermassive blackholes in quasars. The flux and volume limited (corrected) data were imported using the [Flux and Volume limited](https://github.com/artakh10/Flux-and-Volume-limit) code with a bin width of 2.5.
+The required code for Accretion efficiency evolution of central supermassive black holes in quasars. The flux and volume limited (corrected) data were imported using the [Flux and Volume limited](https://github.com/artakh10/Flux-and-Volume-limit) code with a bin width of 2.5.
 
 ## Getting Started
 
