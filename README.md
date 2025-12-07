@@ -30,7 +30,8 @@ This code makes use of several Python libraries:
 
 
 ## Citation
-If you use the code, please link this repository and cite [the related arXiv article](http://arxiv.org/abs/2405.03240).
+If you use the code, please link this repository
+%and cite [the related arXiv article](http://arxiv.org/abs/2405.03240).
 
 ## Contact
 For comments, questions, etc., you can reach me at artakh10@gmail.com.
