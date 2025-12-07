@@ -30,7 +30,7 @@ This code makes use of several Python libraries:
 
 
 ## Citation
-If you use the code, please link this repository
+If you use the code, please link this repository.
 <!-- and cite [the related arXiv article](http://arxiv.org/abs/2405.03240). -->
 
 ## Contact
